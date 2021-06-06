@@ -1,0 +1,26 @@
+@media only screen and (max-width:760px) {
+    /* css for nav  */
+    nav {
+        height: 200px;
+        justify-content: center;
+    }
+    /* css for header  */
+    header {
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url('/IMGS/pexels-rfstudio-3621225.jpg') no-repeat;
+        background-size: cover;
+        height: 800px;
+    }
+    .header_innerdiv {
+        width: 90%;
+    }
+    /* css for social media div */
+    .social_media {
+        width: 100%;
+    }
+    .social_media img {
+        height: 60px;
+        margin: 15px;
+        margin: auto;
+        justify-content: center;
+    }
+}
