@@ -6,7 +6,7 @@
     }
     /* css for header  */
     header {
-        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url('/IMGS/pexels-rfstudio-3621225.jpg') no-repeat;
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)), url('pexels-rfstudio-3621225.jpg') no-repeat;
         background-size: cover;
         height: 800px;
     }
